@@ -47,7 +47,7 @@ export default function Weather() {
 
     <small>
       <a
-        href="https://github.com/roxanastoian/Vanilla-Weather-Search"
+        href="https://github.com/roxanastoian/weather-app-react"
         target="_blank"
         rel="noreferrer"
       >
